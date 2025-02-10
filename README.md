@@ -41,5 +41,5 @@ This is a responsive landing page for a unisex gym, built using HTML and CSS. Th
 This project is open-source and free to use. Feel free to modify and enhance it as per your needs.
 
 ## Contact
-For any inquiries or suggestions, please reach out at [your-email@example.com].
+For any inquiries or suggestions, please reach out at pradiptakumarjena2002@gmail.com .
 
